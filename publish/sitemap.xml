@@ -1580,6 +1580,12 @@
     </url>
   
     <url>
+      <loc>https://www.limalashstore.com.br/navalhete-p-sobrancelha-lamina-aco-inoxidavel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.limalashstore.com.br/cilios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1670,6 +1676,12 @@
     </url>
   
     <url>
+      <loc>https://www.limalashstore.com.br/pages/pagamentos</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.limalashstore.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1689,12 +1701,6 @@
   
     <url>
       <loc>https://www.limalashstore.com.br/pages/trocas</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.limalashstore.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
