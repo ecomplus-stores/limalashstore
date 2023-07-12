@@ -1796,6 +1796,12 @@
     </url>
   
     <url>
+      <loc>https://www.limalashstore.com.br/kit-henna-glance-para-sobrancelha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.limalashstore.com.br/cilios</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1904,13 +1910,13 @@
     </url>
   
     <url>
-      <loc>https://www.limalashstore.com.br/pages/trocas</loc>
+      <loc>https://www.limalashstore.com.br/pages/termos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.limalashstore.com.br/pages/termos</loc>
+      <loc>https://www.limalashstore.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
