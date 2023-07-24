@@ -1928,6 +1928,12 @@
     </url>
   
     <url>
+      <loc>https://www.limalashstore.com.br/hennas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.limalashstore.com.br/fioslimalashes</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
